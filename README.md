@@ -9,6 +9,7 @@ products:
 - azure
 - vs-code
 ---
+<img width="369" alt="image" src="https://github.com/iArtz/js-e2e-express-server/assets/54107137/2c869439-62e0-4309-a9f9-1de5d1d710c7">
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
